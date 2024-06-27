@@ -1,4 +1,4 @@
-## ⚙️🦀 Rust-WASM Boilerplate
+## ⚙️🦀 Rust-WASM Game of Life
 Using the [Rust and WebAssembly Working Group](https://github.com/rustwasm)'s `wasm-pack` crate, which lets you compile rust code into WASM, and provides an interface with JavaScript.
 
 📖 Project built from this [Mozilla Developer Documentation Tutorial](https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_Wasm)
